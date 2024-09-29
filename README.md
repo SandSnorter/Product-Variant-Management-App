@@ -1,6 +1,7 @@
 # Product Variant Management App  
 
 This is a simple user interface application built with **Next.js** and **Tailwind CSS**. The app allows users to manage product states and their associated design variants dynamically.
+
 ## Features  
 
 - **Dynamic State Management**: Add or remove states (rows).  
@@ -29,6 +30,30 @@ Follow these instructions to get your development environment up and running.
 
 1. Clone the repository:  
 
-   ```bash  
-   git clone https://github.com/your-username/my-next-app.git  
-   cd my-next-app
+```bash
+   git clone https://github.com/SandSnorter/Product-Variant-Management-App.git
+```
+
+Navigate to the project directory:
+
+```bash
+  cd Product-Variant-Management-App
+```
+
+Install the dependencies:
+
+```bash
+  npm install
+```
+
+### Running the Application
+
+Start the development server:
+
+```bash
+  npm run dev
+```
+
+### Open your browser
+
+Navigate to http://localhost:3000 to view the application.
