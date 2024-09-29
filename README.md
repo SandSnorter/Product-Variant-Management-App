@@ -34,13 +34,13 @@ Follow these instructions to get your development environment up and running.
    git clone https://github.com/SandSnorter/Product-Variant-Management-App.git
 ```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
   cd Product-Variant-Management-App
 ```
 
-Install the dependencies:
+3. Install the dependencies:
 
 ```bash
   npm install
