@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
+
+body{
+  margin-top: 50px;
+  background: rgb(243 244 246);
+}
+
+.table-cell {  
+  border: 2px solid #e0e0e0; 
+
+}  
+
+.bg-square-box {  
+  border: 2px solid #999999;  
+  width: 60px; 
+  height: 60px;
+}  
+
+.tag {  
+  border-radius: 12px;  
+}
+
+th {
+  color: rgb(115 115 115);
+  font-size: large;
+}
+
+table, th, td {
+  border: 2px solid rgb(203 213 225);
+}
+
+td {
+  padding: 30px 0;
+}
+
+th {
+  padding: 30px 0;
+}
+
+.fa {
+  font-size: 20px;
+}
